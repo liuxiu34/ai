@@ -1,0 +1,61 @@
+2026-05-30 21:39:20,622 INFO [src.watchlist] Prepared scan universe: 139 raw events -> 50 filtered events (min_market_cap=1000000000, max_scan_symbols=50)
+2026-06-03 15:18:21,814 ERROR [yfinance] $CRDO: possibly delisted; no price data found  (period=1mo)
+2026-06-03 15:20:45,434 INFO [src.watchlist] Prepared scan universe: 156 raw events -> 20 filtered events (min_market_cap=1000000000, max_scan_symbols=20)
+2026-06-03 15:49:25,716 INFO [src.watchlist] Prepared scan universe: 153 raw events -> 20 filtered events (min_market_cap=1000000000, max_scan_symbols=20)
+2026-06-03 15:49:28,730 ERROR [yfinance] $AVGO: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,730 ERROR [yfinance] $MDT: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,731 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,731 ERROR [yfinance] $CRWD: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,731 ERROR [yfinance] $FER: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,732 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,732 ERROR [yfinance] ['AVGO']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,732 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,733 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,733 ERROR [yfinance] ['MDT']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,733 ERROR [yfinance] $EC: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,734 ERROR [yfinance] ['CRWD']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,735 ERROR [yfinance] ['FER']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,736 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,737 ERROR [yfinance] $VEEV: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,738 ERROR [yfinance] $ICLR: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,739 ERROR [yfinance] ['EC']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,739 ERROR [yfinance] $FIVE: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,740 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,741 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,742 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:28,743 ERROR [yfinance] ['VEEV']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,743 ERROR [yfinance] ['ICLR']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:28,743 ERROR [yfinance] ['FIVE']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:31,586 INFO [src.price_analysis] No stock history returned for MDT (MDT)
+2026-06-03 15:49:31,765 ERROR [yfinance] $SPY: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:31,765 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:31,765 ERROR [yfinance] ['SPY']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:31,768 INFO [src.price_analysis] No stock history returned for EC (EC)
+2026-06-03 15:49:32,139 INFO [src.price_analysis] No stock history returned for CRWD (CRWD)
+2026-06-03 15:49:32,259 INFO [src.price_analysis] No stock history returned for VEEV (VEEV)
+2026-06-03 15:49:33,223 INFO [src.price_analysis] No stock history returned for ICLR (ICLR)
+2026-06-03 15:49:33,770 ERROR [yfinance] $SPY: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:33,770 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 15:49:33,771 ERROR [yfinance] ['SPY']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 15:49:33,773 INFO [src.price_analysis] No stock history returned for FIVE (FIVE)
+2026-06-03 15:49:34,500 INFO [src.price_analysis] No stock history returned for FER (FER)
+2026-06-03 15:49:35,245 INFO [src.price_analysis] No stock history returned for AVGO (AVGO)
+2026-06-03 16:46:42,310 ERROR [yfinance] $CIEN: possibly delisted; no price data found  (period=1mo)
+2026-06-03 16:46:45,327 ERROR [yfinance] $IOT: possibly delisted; no price data found  (period=1mo)
+2026-06-03 16:46:48,342 ERROR [yfinance] $AI: possibly delisted; no price data found  (period=1mo)
+2026-06-03 16:47:43,863 INFO [src.watchlist] Prepared scan universe: 153 raw events -> 20 filtered events (min_market_cap=1000000000, max_scan_symbols=20)
+2026-06-03 16:47:52,115 ERROR [yfinance] $IDT: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 16:47:52,116 ERROR [yfinance] 
+1 Failed download:
+2026-06-03 16:47:52,116 ERROR [yfinance] ['IDT']: possibly delisted; no price data found  (1d 2026-02-03 -> 2026-06-04)
+2026-06-03 16:47:52,122 INFO [src.price_analysis] No stock history returned for IDT (IDT)
